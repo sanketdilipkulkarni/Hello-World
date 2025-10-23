@@ -1,4 +1,4 @@
 # Hello-World
-This is my first repository. 
-it is my 1st git repository.
+This is my first repository. <br>
+it is my 1st git repository.<br>
 I am sanket.
